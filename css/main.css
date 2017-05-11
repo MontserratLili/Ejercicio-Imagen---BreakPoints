@@ -9,12 +9,12 @@
 /*BREAKPOINTS*/
 
 @media (min-width: 0px) and (max-width: 320px) {
-    body{
+    body {
         background-image: url("../img/maxresdefault.jpg");
         background-size: cover;
-        background-repeat: no-repeat;        
+        background-repeat: no-repeat;
     }
-    .img{
+    .img {
         background-image: url("../img/kitten-small.png");
         width: 500px;
         height: 500px;
@@ -24,12 +24,12 @@
 }
 
 @media (min-width: 321px) and (max-width: 480px) {
-    body{
+    body {
         background-image: url("../img/dawn.png");
         background-size: cover;
-        background-repeat: no-repeat;        
+        background-repeat: no-repeat;
     }
-    .img{
+    .img {
         background-image: url("../img/kitten-large.png");
         width: 500px;
         height: 500px;
@@ -39,12 +39,12 @@
 }
 
 @media (min-width: 481px) and (max-width: 768px) {
-    body{
+    body {
         background-image: url("../img/dawn.png");
         background-size: cover;
-        background-repeat: no-repeat;        
+        background-repeat: no-repeat;
     }
-    .img{
+    .img {
         background-image: url("../img/kitten-medium.png");
         width: 500px;
         height: 500px;
@@ -53,13 +53,13 @@
     }
 }
 
-@media (min-width: 769px){
-    body{
+@media (min-width: 769px) {
+    body {
         background-image: url("../img/Landscape.jpg");
         background-size: cover;
-        background-repeat: no-repeat;        
+        background-repeat: no-repeat;
     }
-    .img{
+    .img {
         background-image: url("../img/kitten-medium.png");
         height: 500px;
         margin-top: 130px;
